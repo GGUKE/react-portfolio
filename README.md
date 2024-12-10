@@ -6,6 +6,9 @@
 <br />
 
 ## ⛏️ Project
+
+<br />
+
 ### <a href="https://jg-pro-wylie.vercel.app/" >🧾 Wylie</a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Sass-C69?style=for-the-badge&logo=sass&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/ES6-1F3A55?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/PWA-4A90E2?style=for-the-badge&logo=pwa&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF">
 
@@ -31,12 +34,17 @@ Artcenter NABI는 HTML, CSS, JavaScript로 개발된 웹 프로젝트로, Axios�
 
 O'kichen는 HTML, CSS, Tailwind CSS, JavaScript, Google Maps API를 활용하여 모바일 최적화된 웹 프로젝트입니다. SwiperJS를 이용한 슬라이더 구현과 Google Maps API로 위치 표시 기능을 제공하며, 사용자 경험을 향상시키기 위해 다양한 인터랙티브 요소들이 포함되어 있습니다
 
+<br />
+<br />
+
 ## 💡 Open Source
-```
-[ Redux ] : https://jg-open-1.vercel.app/
-```
-```
-Menu Style Interaction : https://jg-open-2.vercel.app/
-```
-| Redux  | https://jg-open-1.vercel.app |  | Menu Style Interaction | https://jg-open-2.vercel.app/ |
-|------------|------------------------|--|------------|------------------------|
+
+<br />
+
+[![Redux](https://img.shields.io/badge/Redux-4CAF50?style=for-the-badge&logo=redux&logoColor=white)](https://jg-open-1.vercel.app/)
+[![Menu Style Interaction](https://img.shields.io/badge/Menu_Style_Interaction-008CBA?style=for-the-badge&logo=react&logoColor=white)](https://jg-open-2.vercel.app/) 진행중...
+
+
+
+
+
