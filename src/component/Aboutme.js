@@ -8,11 +8,11 @@ function Aboutme() {
 	
 	useEffect(() => {
 		let logoColor=document.querySelector("#header");
-		let page1=document.querySelector("section #page1");
+		
 
-		gsap.timeline({
+		const page1Tl=gsap.timeline({
 			scrollTrigger: {
-				trigger: page1,
+				trigger: "#page1",
 				scrub: true,
 				start: "top 1%",
 				// markers: true,

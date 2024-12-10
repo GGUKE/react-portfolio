@@ -9,7 +9,7 @@ gsap.registerPlugin(ScrollTrigger);
 function Skills() {
 
 	useEffect(() => {
-		gsap.timeline({
+		const page2Tl=gsap.timeline({
 			scrollTrigger: {
 				trigger: "#page2",
 				scrub: true,
