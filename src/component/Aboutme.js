@@ -49,14 +49,14 @@ function Aboutme() {
 		}
 		else{ // pc
 			gsap.utils.toArray(".main-typo").forEach(function(mainTypo){
-				console.log(mainTypo);
-				// const tl=gsap.timeline({
-				// 	scrollTrigger: {
-				// 		trigger: mainTypo,
-				// 		scrub: 1,
-				// 		start: "top bottom"
-				// 	}
-				// });
+			
+				const tl=gsap.timeline({
+					scrollTrigger: {
+						trigger: mainTypo,
+						scrub: 1,
+						start: "top bottom"
+					}
+				});
 		
 				tl.to(mainTypo.querySelector("div:nth-child(1)"), {
 					x: "-20%",
