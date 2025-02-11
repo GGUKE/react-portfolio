@@ -5,28 +5,28 @@ const data = {
 			name: "Wylie",
 			skills: ["React", "Redux", "JavaScript", "GSAP", "PWA"],
 			des: "React를 활용하고 Redux로 상태 관리하여 제작한 클론 사이트입니다. 모바일과 PC에서 볼 수 있게 최대한 반응형을 고려하여 작업하였으며 Redux, redux-toolkit에 대한 학습이 되었습니다. 또한, PWA(progressive web app)를 적용하여 모바일 기기에서도 원활한 사용자 경험을 제공하며 오프라인에서도 작동할 수 있도록 만들었습니다.",
-			url: "https://github.com/GGUKE/Wylie-index",
+			url: "https://jg-pro-wylie.vercel.app/",
 		  },
 		  {
 			id: 2,
 			name: "Art center NABI",
 			skills: ["React", "Redux", "JavaScript", "GSAP"],
 			des: "React를 활용한 갤러 클론 코딩입니다. Movie, Tv, Search 페이지로 구성되어 있으며. 반응형으로 제작되었습니다. useState() 함수를 이용해 메인 슬라이더의 영상을 제어했습니다.",
-			url: "https://github.com/GGUKE/NABI-index",
+			url: "https://jp-pro-artnabi.vercel.app/",
 		  },
 		  {
 			id: 3,
 			name: "O' kichen",
 			skills: ["PWA", "Tailwind CSS", "SwiperJS", "GSAP"],
 			des: "URL로 접속하여 쉽게 설치하고 이용할 수 있는 프로그레시브 웹 앱입니다. SwiperJS 라이브러리를 통해 컨텐츠와 광고 배너를 둘러볼 수 있게 제작하였으며 검색 버튼을 누르면 검색 화면으로 이동할 수 있습니다. 검색 화면의 '최근에 본 레시피' 섹션에서 '더보기' 버튼을 누르면 상세 페이지로 넘어갈 수 있고, 페이지 이동에 따라 헤더의 디자인과 기능이 변하도록 제작했습니다.",
-			url: "https://github.com/GGUKE/O-kichen-index",
+			url: "https://jp-pro-kichen.vercel.app/",
 		  },
 		  {
 			id: 4,
 			name: "Wconcept",
 			skills: ["HTML", "CSS", "JavaScript"],
 			des: "Wconcept 프로젝트는 최신 패션 트렌드를 반영한 쇼핑몰 웹사이트입니다. HTML과 CSS로 깔끔하고 직관적인 쇼핑몰 레이아웃을 설계하고, jQuery를 통해 제품 상세 페이지와 슬라이더를 동적으로 구현했습니다. Figma에서 UI/UX 디자인을 반영하여 쇼핑몰의 브랜드 이미지와 사용자의 편리성을 고려한 디자인을 구현하였습니다.",
-			url: "https://github.com/GGUKE/Wconcept-index",
+			url: "https://jg-pro-wconcept.vercel.app/",
 		  }
 	],
 	openSource :[
