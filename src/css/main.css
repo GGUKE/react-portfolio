@@ -874,6 +874,7 @@ body.active #main .swiper-slide a p.description span::before{
 }
 #footer .ft-wrap .ft-info p span a {
 	color: #fff;
+	white-space: nowrap;
 }
 
 #footer .ft-wrap .ft-right {
